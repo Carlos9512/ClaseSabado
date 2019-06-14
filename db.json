@@ -1,0 +1,28 @@
+{
+    "colegios": [
+        {
+            "id": 1,
+            "nombre": "Comercial Del Norte",
+            "latitud": "2.4843791",
+            "longitud": "-76.5623693"
+        },
+        {
+            "id": 2,
+            "nombre": "Liceo Bello Horizonte",
+            "latitud": "2.4854529",
+            "longitud": "-76.5682454"
+        },
+        {
+            "id": 3,
+            "nombre": "Carlos M. Simmonds",
+            "latitud": "2.4868171",
+            "longitud": "-76.5614394"
+        },
+        {
+            "id": 4,
+            "nombre": "Salesianas",
+            "latitud": "2.4603186",
+            "longitud": "-76.5929644"
+        }
+    ]
+}
